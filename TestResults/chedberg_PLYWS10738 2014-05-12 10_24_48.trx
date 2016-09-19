@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="58c10ac9-0a94-4093-b03b-67e55848760b" name="chedberg@PLYWS10738 2014-05-12 10:24:48" runUser="DATARECOGNITION\chedberg" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c4430357-3c1c-4d45-a946-2109ae936843">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="chedberg_PLYWS10738 2014-05-12 10_24_48">
+      <DeploymentItem filename="\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Cars\bin\Debug\Cars.dll" />
+      <DeploymentItem filename="\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe" />
+      <DeploymentItem filename="\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Shapes\bin\Debug\Shapes.dll" />
+      <DeploymentItem filename="\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Animals\bin\Debug\Animals.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-05-12T10:24:48.4105819-05:00" queuing="2014-05-12T10:24:49.6097018-05:00" start="2014-05-12T10:24:49.6637072-05:00" finish="2014-05-12T10:24:50.7618170-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FactoryReturnsBMWAsCar" storage="\\mgfs01\home$\chedberg\my documents\visual studio 2010\projects\factorypattern\factorytests\bin\x86\debug\factorytests.dll" id="c0a3025a-f729-6df8-9574-16bcbe45a337">
+      <Execution id="3e2d9138-fce1-46ae-9347-de3c7b757bbb" />
+      <TestMethod codeBase="file://mgfs01/home$/CHedberg/My Documents/Visual Studio 2010/Projects/FactoryPattern/FactoryTests/bin/x86/Debug/FactoryTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FactoryTests.FactoryTest, FactoryTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FactoryReturnsBMWAsCar" />
+    </UnitTest>
+    <UnitTest name="FactoryReturnsDogAsAnimal" storage="\\mgfs01\home$\chedberg\my documents\visual studio 2010\projects\factorypattern\factorytests\bin\x86\debug\factorytests.dll" id="91465350-5b90-7573-84c4-3faa223ac0b0">
+      <Execution id="c0ea69b4-fa99-4369-9f49-6bd2633eb46d" />
+      <TestMethod codeBase="file://mgfs01/home$/CHedberg/My Documents/Visual Studio 2010/Projects/FactoryPattern/FactoryTests/bin/x86/Debug/FactoryTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FactoryTests.FactoryTest, FactoryTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FactoryReturnsDogAsAnimal" />
+    </UnitTest>
+    <UnitTest name="FactoryReturnsCircleAsShape" storage="\\mgfs01\home$\chedberg\my documents\visual studio 2010\projects\factorypattern\factorytests\bin\x86\debug\factorytests.dll" id="414e7c09-c041-6ed1-e01d-966127f446dd">
+      <Execution id="5a650d97-71a9-4cd5-8aa2-c561e54ff901" />
+      <TestMethod codeBase="file://mgfs01/home$/CHedberg/My Documents/Visual Studio 2010/Projects/FactoryPattern/FactoryTests/bin/x86/Debug/FactoryTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FactoryTests.FactoryTest, FactoryTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FactoryReturnsCircleAsShape" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="414e7c09-c041-6ed1-e01d-966127f446dd" executionId="5a650d97-71a9-4cd5-8aa2-c561e54ff901" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="91465350-5b90-7573-84c4-3faa223ac0b0" executionId="c0ea69b4-fa99-4369-9f49-6bd2633eb46d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0a3025a-f729-6df8-9574-16bcbe45a337" executionId="3e2d9138-fce1-46ae-9347-de3c7b757bbb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5a650d97-71a9-4cd5-8aa2-c561e54ff901" testId="414e7c09-c041-6ed1-e01d-966127f446dd" testName="FactoryReturnsCircleAsShape" computerName="PLYWS10738" duration="00:00:00.0901237" startTime="2014-05-12T10:24:49.7277136-05:00" endTime="2014-05-12T10:24:50.3007709-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a650d97-71a9-4cd5-8aa2-c561e54ff901">
+    </UnitTestResult>
+    <UnitTestResult executionId="c0ea69b4-fa99-4369-9f49-6bd2633eb46d" testId="91465350-5b90-7573-84c4-3faa223ac0b0" testName="FactoryReturnsDogAsAnimal" computerName="PLYWS10738" duration="00:00:00.2364873" startTime="2014-05-12T10:24:50.3237732-05:00" endTime="2014-05-12T10:24:50.5627971-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0ea69b4-fa99-4369-9f49-6bd2633eb46d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method FactoryTests.FactoryTest.FactoryReturnsDogAsAnimal threw exception: 
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.</Message>
+          <StackTrace>    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at FactoryPattern.Factory`1.CreateObject(Type type, Object[] args) in \\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryPattern\Factory.cs:line 38
+   at FactoryTests.FactoryTest.FactoryReturnsDogAsAnimal() in \\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\FactoryTest.cs:line 46
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3e2d9138-fce1-46ae-9347-de3c7b757bbb" testId="c0a3025a-f729-6df8-9574-16bcbe45a337" testName="FactoryReturnsBMWAsCar" computerName="PLYWS10738" duration="00:00:00.0261584" startTime="2014-05-12T10:24:50.5827991-05:00" endTime="2014-05-12T10:24:50.6118020-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e2d9138-fce1-46ae-9347-de3c7b757bbb">
+    </UnitTestResult>
+  </Results>
+</TestRun>

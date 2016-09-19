@@ -1,0 +1,4 @@
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Animals\bin\Debug\Animals.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Animals\bin\Debug\Animals.pdb
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Animals\obj\Debug\Animals.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Animals\obj\Debug\Animals.pdb

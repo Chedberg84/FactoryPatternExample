@@ -1,0 +1,4 @@
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Cars\bin\Debug\Cars.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Cars\bin\Debug\Cars.pdb
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Cars\obj\Debug\Cars.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Cars\obj\Debug\Cars.pdb

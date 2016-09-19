@@ -1,0 +1,4 @@
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Shapes\bin\Debug\Shapes.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Shapes\bin\Debug\Shapes.pdb
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Shapes\obj\Debug\Shapes.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\Shapes\obj\Debug\Shapes.pdb

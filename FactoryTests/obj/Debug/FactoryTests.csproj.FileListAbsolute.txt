@@ -1,0 +1,7 @@
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\bin\Debug\FactoryTests.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\bin\Debug\FactoryTests.pdb
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\obj\Debug\FactoryTests.dll
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\obj\Debug\FactoryTests.pdb
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\obj\Debug\FactoryTests.csprojResolveAssemblyReference.cache
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\bin\Debug\FactoryPattern.exe
+\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\FactoryTests\bin\Debug\FactoryPattern.pdb

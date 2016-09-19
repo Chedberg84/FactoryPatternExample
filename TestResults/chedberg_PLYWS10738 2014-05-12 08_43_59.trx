@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f0f0b584-e403-4e90-a69e-4eb53a08fca8" name="chedberg@PLYWS10738 2014-05-12 08:43:59" runUser="DATARECOGNITION\chedberg" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c4430357-3c1c-4d45-a946-2109ae936843">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="\\mgfs01\home$\CHedberg\My Documents\Visual Studio 2010\Projects\FactoryPattern\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="chedberg_PLYWS10738 2014-05-12 08_43_59" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-05-12T08:43:59.8047818-05:00" queuing="2014-05-12T08:43:59.9107924-05:00" start="2014-05-12T08:43:59.9157929-05:00" finish="2014-05-12T08:44:00.0718085-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="\\mgfs01\home$\chedberg\my documents\visual studio 2010\projects\factorypattern\factorytests\bin\debug\factorytests.dll" id="c188b8d7-3f01-4736-de9a-3b1d01c7eeaa">
+      <Execution id="27390cc0-f9fa-4cca-88e3-14a69def9d6b" />
+      <TestMethod codeBase="file://mgfs01/home$/CHedberg/My Documents/Visual Studio 2010/Projects/FactoryPattern/FactoryTests/bin/Debug/FactoryTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FactoryTests.UnitTest1, FactoryTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c188b8d7-3f01-4736-de9a-3b1d01c7eeaa" executionId="27390cc0-f9fa-4cca-88e3-14a69def9d6b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="27390cc0-f9fa-4cca-88e3-14a69def9d6b" testId="c188b8d7-3f01-4736-de9a-3b1d01c7eeaa" testName="TestMethod1" computerName="PLYWS10738" startTime="2014-05-12T08:43:59.9577971-05:00" endTime="2014-05-12T08:43:59.9597973-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27390cc0-f9fa-4cca-88e3-14a69def9d6b">
+      <Output>
+        <ErrorInfo>
+          <Message>Unit Test Adapter threw exception: 
+URI formats are not supported..</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
